@@ -23,7 +23,8 @@ int _strcmp(const char *str1, char *str2)
 	return (1);
 }
 /**
- * get_card_position - A function that return the position based on card you put in
+ * get_card_position - A function that return the position based on
+ * card you put in
  * @node: represent the card
  * Return: return the card position
  */
